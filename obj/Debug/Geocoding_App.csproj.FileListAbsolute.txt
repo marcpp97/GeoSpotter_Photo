@@ -1,0 +1,38 @@
+E:\Nextcloud\ProyectosVarios\Geocoding_App\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+E:\Nextcloud\ProyectosVarios\Geocoding_App\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Nextcloud\ProyectosVarios\Geocoding_App\bin\Debug\Microsoft.Net.Http.Headers.dll
+E:\Nextcloud\ProyectosVarios\Geocoding_App\bin\Debug\Newtonsoft.Json.Bson.dll
+E:\Nextcloud\ProyectosVarios\Geocoding_App\bin\Debug\Newtonsoft.Json.dll
+E:\Nextcloud\ProyectosVarios\Geocoding_App\bin\Debug\System.Buffers.dll
+E:\Nextcloud\ProyectosVarios\Geocoding_App\bin\Debug\System.Memory.dll
+E:\Nextcloud\ProyectosVarios\Geocoding_App\bin\Debug\System.Numerics.Vectors.dll
+E:\Nextcloud\ProyectosVarios\Geocoding_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Nextcloud\ProyectosVarios\Geocoding_App\bin\Debug\System.Text.Encodings.Web.dll
+E:\Nextcloud\ProyectosVarios\Geocoding_App\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+E:\Nextcloud\ProyectosVarios\Geocoding_App\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Nextcloud\ProyectosVarios\Geocoding_App\bin\Debug\Microsoft.Net.Http.Headers.xml
+E:\Nextcloud\ProyectosVarios\Geocoding_App\bin\Debug\Newtonsoft.Json.pdb
+E:\Nextcloud\ProyectosVarios\Geocoding_App\bin\Debug\Newtonsoft.Json.xml
+E:\Nextcloud\ProyectosVarios\Geocoding_App\bin\Debug\Newtonsoft.Json.Bson.pdb
+E:\Nextcloud\ProyectosVarios\Geocoding_App\bin\Debug\Newtonsoft.Json.Bson.xml
+E:\Nextcloud\ProyectosVarios\Geocoding_App\bin\Debug\System.Buffers.xml
+E:\Nextcloud\ProyectosVarios\Geocoding_App\bin\Debug\System.Memory.xml
+E:\Nextcloud\ProyectosVarios\Geocoding_App\bin\Debug\System.Numerics.Vectors.xml
+E:\Nextcloud\ProyectosVarios\Geocoding_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Nextcloud\ProyectosVarios\Geocoding_App\bin\Debug\System.Text.Encodings.Web.xml
+E:\Nextcloud\ProyectosVarios\Geocoding_App\obj\Debug\Geocoding_App.GeoSpotter_Photo.resources
+E:\Nextcloud\ProyectosVarios\Geocoding_App\obj\Debug\Geocoding_App.Properties.Resources.resources
+E:\Nextcloud\ProyectosVarios\Geocoding_App\obj\Debug\Geocoding_App.csproj.GenerateResource.cache
+E:\Nextcloud\ProyectosVarios\Geocoding_App\obj\Debug\Geocoding_App.csproj.CoreCompileInputs.cache
+E:\Nextcloud\ProyectosVarios\Geocoding_App\obj\Debug\Geocoding_App.csproj.CopyComplete
+E:\Nextcloud\ProyectosVarios\Geocoding_App\obj\Debug\Geocoding_App.csproj.AssemblyReference.cache
+E:\Nextcloud\ProyectosVarios\Geocoding_App\bin\Debug\GeoSpot Photo.exe.config
+E:\Nextcloud\ProyectosVarios\Geocoding_App\bin\Debug\GeoSpot Photo.exe.manifest
+E:\Nextcloud\ProyectosVarios\Geocoding_App\bin\Debug\GeoSpot Photo.application
+E:\Nextcloud\ProyectosVarios\Geocoding_App\bin\Debug\GeoSpot Photo.exe
+E:\Nextcloud\ProyectosVarios\Geocoding_App\bin\Debug\GeoSpot Photo.pdb
+E:\Nextcloud\ProyectosVarios\Geocoding_App\obj\Debug\GeoSpot Photo.exe.manifest
+E:\Nextcloud\ProyectosVarios\Geocoding_App\obj\Debug\GeoSpot Photo.application
+E:\Nextcloud\ProyectosVarios\Geocoding_App\obj\Debug\GeoSpot Photo.exe
+E:\Nextcloud\ProyectosVarios\Geocoding_App\obj\Debug\GeoSpot Photo.pdb
+E:\Nextcloud\ProyectosVarios\Geocoding_App\obj\Debug\Geocoding_App.csproj.SuggestedBindingRedirects.cache
